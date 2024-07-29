@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @andrecdk
-- 👀 I’m interested in Data Analyst, also for Data Base Management and Data Scientist
+- 👀 I’m interested in Data Analyst
 - 🌱 I’m currently learning SQL, Phyton, BI Tools, R.
 - 💞️ I’m looking to collaborate on Data Analysis Project that mainly focus on financial and business data, but not limited to that. If you want to collaborate with me for the analysis including business processing, people analytics, or supply chain etc. i'm glad if i can give you a help.
 - 📫 How to reach me you can contact me through my e-mail.
