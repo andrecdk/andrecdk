@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @andrecdk
-- 👀 I’m interested in Data Analyst
-- 🌱 I’m currently learning SQL, Phyton, BI Tools, R.
-- 💞️ I’m looking to collaborate on Data Analysis Project that mainly focus on financial and business data, but not limited to that. If you want to collaborate with me for the analysis including business processing, people analytics, or supply chain etc. i'm glad if i can give you a help.
-- 📫 How to reach me you can contact me through my e-mail.
+Hi, I’m @andrecdk
+I’m interested in Data Analyst
+I’m currently learning SQL, BI Tools.
 
 <!---
 andrecdk/andrecdk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
