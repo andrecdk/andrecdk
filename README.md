@@ -7,6 +7,7 @@
 
 </div>
 <br/>
+
 > [!NOTE]
 >I’m a data enthusiast on a quest to shape my own digital universe. By day, I dive into the intricacies of data analysis, unraveling patterns and insights. But wait—there’s more! Under the moonlight, I don my coding cape (Python, of course) to conjure up little spells—tiny automations that rescue me from the clutches of mundane office tasks. Together, we’re crafting a world where data dances and spreadsheets sigh with relief. 🚀✨
 
