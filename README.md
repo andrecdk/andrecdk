@@ -1,6 +1,6 @@
 # 🐯 Hi, I’m andrecdk
 
-**`Digital Craftsmanship`**
+**`🎨 Digital Craftsmanship | 📈🔍 Data Analyst and Data Scientist Entahusiast`**
 
 I'm a data analyst enthausiast building my version of digital world and currently learning about coding as part of data analysis, data gathering and management and partially make some stuff that will help automate boring office task mainly in python.
 
@@ -11,7 +11,9 @@ I'm a data analyst enthausiast building my version of digital world and currentl
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/andrecdk?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 </p>
 
-### 🧰 Languages and Tools
+---
+
+## 🧰 Languages and Tools
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/>
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original-wordmark.svg" />        
@@ -20,7 +22,9 @@ I'm a data analyst enthausiast building my version of digital world and currentl
 <img align="left" alt="Canva" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
 <img align="left" alt="VS Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" />
 
-### 📊 Stats
+#
+
+## 📊 Stats
 
 ![andrecdk's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrecdk&show_icons=true&theme=gruvbox)
 
