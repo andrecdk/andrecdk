@@ -19,5 +19,9 @@ I'm a data analyst enthausiast building my version of digital world and currentl
 <img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
 <img align="left" alt="Canva" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
 <img align="left" alt="VS Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" />
-          
+
+### 📊 Stats
+
+![andrecdk's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrecdk&show_icons=true&theme=gruvbox)
+
 
