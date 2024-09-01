@@ -37,7 +37,7 @@
 </div>
 <br/>
 
-## 🤝 Conect with Me
+## 🤝 Connect with Me
 <img src="./img/linkedin.png" alt="LinkedIn" width="30" height="auto">
 
 
