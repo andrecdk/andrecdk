@@ -43,13 +43,13 @@
 
 ## 📊 Stats
 <div>
-    <p align="center">
+    <p align="left">
         <img src="https://img.shields.io/github/stars/andrecdk/andrecdk?style=social" alt="GitHub Stars">
         <img src="https://img.shields.io/github/followers/andrecdk?style=social" alt="GitHub Followers">
         <img src="https://img.shields.io/github/watchers/andrecdk/andrecdk?style=social" alt="GitHub Watchers">
         <img src="https://img.shields.io/github/forks/andrecdk/andrecdk?style=social" alt="GitHub Forks">
     </p>
-    <p align="center">
+    <p align="left">
         <img src="https://visitor-badge.laobi.icu/badge?page_id=andrecdk.ancdre.cdk" alt="Visitor Count">
     </p>
 </div>
