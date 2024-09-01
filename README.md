@@ -36,7 +36,8 @@
         <img alt="PostgreSQL" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
         <img alt="VS Code" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
         <img alt="pwsh" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" />
-        <img alt="pwsh" width="35px" style="padding-right:10px;" src="./img/looker-studio-logos.svg" />
+        <img alt="Looker Studio" width="35px" style="padding-right:10px;" src="./img/looker-studio-logos.svg" />
+        <img alt="Kaggle" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original-wordmark.svg" />
         <img alt="Canva" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
     </p>
 </div>
