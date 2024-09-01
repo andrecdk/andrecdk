@@ -1,17 +1,19 @@
-# 🐯 Hi, I’m andrecdk
+# 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+andrecdk!;" />
+</h1>
 
 **`🎨 Digital Craftsmanship | 📈🔍 Data Analyst and Data Scientist Entahusiast`**
+> [!NOTE]
+>I’m a data enthusiast on a quest to shape my own digital universe. By day, I dive into the intricacies of data analysis, unraveling patterns and insights. But wait—there’s more! Under the moonlight, I don my coding cape (Python, of course) to conjure up little spells—tiny automations that rescue me from the clutches of mundane office tasks. Together, we’re crafting a world where data dances and spreadsheets sigh with relief. 🚀✨
 
-I’m a data enthusiast on a quest to shape my own digital universe. By day, I dive into the intricacies of data analysis, unraveling patterns and insights. But wait—there’s more! Under the moonlight, I don my coding cape (Python, of course) to conjure up little spells—tiny automations that rescue me from the clutches of mundane office tasks. Together, we’re crafting a world where data dances and spreadsheets sigh with relief. 🚀✨
-
-<p align="left">
+<div align="left">
   <a href="https://github.com/ForrestKnight?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/andrecdk?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/andrecdk?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-</p>
+</div>
 
----
 
 ## 🧰 Languages and Tools
 
@@ -19,16 +21,20 @@ I’m a data enthusiast on a quest to shape my own digital universe. By day, I d
 <img align="left" alt="Anaconda" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" />
 <img align="left" alt="Jupyter Notebook" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
 <img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />        
 <img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="left" alt="VS Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
 <img align="left" alt="VS Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" />
 <img align="left" alt="Canva" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
 <br />
 
-#
 
 ## 📊 Stats
 
-![andrecdk's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrecdk&show_icons=true&theme=gruvbox)
+<img align="left" width="390"  src="https://github-readme-stats-andrecdk.vercel.app/api?username=andrecdk&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+<br>
+<img width="325" align="left" src="https://github-readme-stats-andrecdk.vercel.app/api/top-langs/?username=andrecdk&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 
-
+## 🤝 Conect with Me
+[![LinkedIn](&#xF472)](https://www.linkedin.com/in/andrechandika/)
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=andrecdk.ancdre.cdk" />
