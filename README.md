@@ -42,13 +42,18 @@
 
 
 ## 📊 Stats
-![GitHub stars](https://img.shields.io/github/stars/andrecdk/andrecdk?style=social)
-![GitHub followers](https://img.shields.io/github/followers/andrecdk?style=social)
-![GitHub forks](https://img.shields.io/github/forks/andrecdk/andrecdk?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/andrecdk/andrecdk?style=social)
-
-<span class="Visitor">
-<a title="Visitor Count">
-<img  src="https://visitor-badge.laobi.icu/badge?page_id=andrecdk.ancdre.cdk" />
-</a>
-</span>
+<p align="center">
+    <img src="https://img.shields.io/github/stars/andrecdk/andrecdk?style=social" alt="GitHub Stars">
+    <img src="https://img.shields.io/github/followers/andrecdk?style=social" alt="GitHub Followers">
+    <img src="https://img.shields.io/github/watchers/andrecdk/andrecdk?style=social" alt="GitHub Watchers">
+    <img src="https://img.shields.io/github/forks/andrecdk/andrecdk?style=social" alt="GitHub Forks">
+</p>
+<p align="center">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=andrecdk.ancdre.cdk" alt="Visitor Count">
+</p>
+<div style="text-align: center;">
+    <p align="center">
+        <img src='https://github-readme-streak-stats.herokuapp.com/?user=andrecdk&theme=vue-dark&hide_border=true' width="500" height="600" />
+        <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=andrecdk&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' width="500" height="600" />
+    </p>
+</div>
