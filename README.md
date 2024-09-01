@@ -43,7 +43,7 @@
 <br/>
 
 ## 🤝 Connect with Me
-<img src="./img/linkedin.png" alt="LinkedIn" width="30" height="auto">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="35px" height="auto">
 
 
 ## 📊 Stats
