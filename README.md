@@ -53,9 +53,3 @@
         <img src="https://visitor-badge.laobi.icu/badge?page_id=andrecdk.ancdre.cdk" alt="Visitor Count">
     </p>
 </div>
-<div style="text-align: center;">
-    <p align="center">
-        <img src='https://github-readme-streak-stats.herokuapp.com/?user=andrecdk&theme=vue-dark&hide_border=true' width="500" height="600" />
-        <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=andrecdk&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' width="500" height="600" />
-    </p>
-</div>
