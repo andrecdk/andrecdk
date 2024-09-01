@@ -1,7 +1,7 @@
 # 
-<h1 align="center">
+<div align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+andrecdk!;" />
-</h1>
+</div>
 
 **`🎨 Digital Craftsmanship | 📈🔍 Data Analyst and Data Scientist Entahusiast`**
 > [!NOTE]
@@ -26,15 +26,13 @@
 <img align="left" alt="VS Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
 <img align="left" alt="VS Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" />
 <img align="left" alt="Canva" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
-<br />
+<br/>
 
+## 🤝 Conect with Me
+[![LinkedIn]()](https://www.linkedin.com/in/andrechandika/)
 
 ## 📊 Stats
 
-<img align="left" width="390"  src="https://github-readme-stats-andrecdk.vercel.app/api?username=andrecdk&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-<br>
-<img width="325" align="left" src="https://github-readme-stats-andrecdk.vercel.app/api/top-langs/?username=andrecdk&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 
-## 🤝 Conect with Me
-[![LinkedIn](&#xF472)](https://www.linkedin.com/in/andrechandika/)
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=andrecdk.ancdre.cdk" />
+[<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=andrecdk.ancdre.cdk" />]
+
