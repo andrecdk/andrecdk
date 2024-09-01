@@ -42,5 +42,13 @@
 
 
 ## 📊 Stats
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=andrecdk.ancdre.cdk" />
+![GitHub stars](https://img.shields.io/github/stars/andrecdk/andrecdk?style=social)
+![GitHub followers](https://img.shields.io/github/followers/andrecdk?style=social)
+![GitHub forks](https://img.shields.io/github/forks/andrecdk/andrecdk?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/andrecdk/andrecdk?style=social)
 
+<span class="Visitor">
+<a title="Visitor Count">
+<img  src="https://visitor-badge.laobi.icu/badge?page_id=andrecdk.ancdre.cdk" />
+</a>
+</span>
