@@ -1,4 +1,3 @@
-# 
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+andrecdk!;" />
 </div>
@@ -27,12 +26,11 @@
 <img align="left" alt="VS Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" />
 <img align="left" alt="Canva" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
 <br/>
+<br/>
 
 ## 🤝 Conect with Me
-[![LinkedIn]()](https://www.linkedin.com/in/andrechandika/)
+[![LinkedIn]("http://www.w3.org/2000/svg")](https://www.linkedin.com/in/andrechandika/)
 
 ## 📊 Stats
-
-
-[<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=andrecdk.ancdre.cdk" />]
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=andrecdk.ancdre.cdk" />
 
