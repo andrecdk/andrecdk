@@ -80,6 +80,4 @@
         <img src="https://visitor-badge.laobi.icu/badge?page_id=andrecdk.ancdre.cdk" alt="Visitor Count">
     </p>
 </div>
-<div>
-[![Image of insights](https://github.com/andrecdk/andrecdk/readme.md)](https://github.com/andrecdk/andrecdk/readme.md)
 
