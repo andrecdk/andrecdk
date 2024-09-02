@@ -25,22 +25,43 @@
 
 
 ## 🧰 Languages and Tools
-
-<div style="text-align: center;">
-    <p align="left">
-        <img alt="Python" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-        <img alt="Anaconda" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" />
-        <img alt="Jupyter Notebook" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
-        <img alt="PostgreSQL" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-        <img alt="MySQL" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />        
-        <img alt="PostgreSQL" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-        <img alt="VS Code" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
-        <img alt="pwsh" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" />
-        <img alt="Looker Studio" width="35px" style="padding-right:10px;" src="./img/looker-studio-logos.svg" />
-        <img alt="Kaggle" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original-wordmark.svg" />
-        <img alt="Canva" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
-    </p>
-</div>
+<table>
+	<tr>
+		<td>
+            <img alt="Python" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+        </td>
+        <td>
+            <img alt="Anaconda" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" />
+        </td>
+        <td>
+            <img alt="Jupyter Notebook" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
+        </td>
+        <td>
+            <img alt="PostgreSQL" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+        </td>
+        <td>
+            <img alt="MySQL" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+        </td>
+        <td>
+            <img alt="PostgreSQL" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+        </td>
+        <td>
+            <img alt="VS Code" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
+        </td>
+        <td>
+            <img alt="pwsh" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" />
+        </td>
+        <td>
+            <img alt="Looker Studio" width="35px" style="padding-right:10px;" src="./img/looker-studio-logos.svg" />
+        </td>
+        <td>
+            <img alt="Kaggle" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original-wordmark.svg" />
+        </td>
+        <td>
+            <img alt="Canva" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
+        </td>      
+    </tr>
+ </table>
 <br/>
 
 ## 🤝 Connect with Me
@@ -59,3 +80,6 @@
         <img src="https://visitor-badge.laobi.icu/badge?page_id=andrecdk.ancdre.cdk" alt="Visitor Count">
     </p>
 </div>
+<div>
+[![Image of insights](https://github.com/andrecdk/andrecdk/readme.md)](https://github.com/andrecdk/andrecdk/readme.md)
+
