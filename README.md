@@ -57,8 +57,9 @@
 <br/>
 
 ## 🤝 Connect with Me
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="35px" height="auto">
-
+<a href="https://www.linkedin.com/in/andrechandika/">
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="35px" height="auto">
+</a>
 
 ## 📊 Stats
 <div>
