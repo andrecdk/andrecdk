@@ -16,14 +16,6 @@
 > [!NOTE]
 >I’m a data enthusiast on a quest to shape my own digital universe. By day, I dive into the intricacies of data analysis, unraveling patterns and insights. But wait—there’s more! Under the moonlight, I don my coding cape (Python, of course) to conjure up little spells—tiny automations that rescue me from the clutches of mundane office tasks. Together, we’re crafting a world where data dances and spreadsheets sigh with relief. 🚀✨
 
-<div align="left">
-  <a href="https://github.com/ForrestKnight?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/andrecdk?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/andrecdk?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-</div>
-
-
 ## 🧰 Languages and Tools
 <table>
 	<tr>
@@ -77,7 +69,7 @@
         <img src="https://img.shields.io/github/forks/andrecdk/andrecdk?style=social" alt="GitHub Forks">
     </p>
     <p align="left">
-        <img src="https://visitor-badge.laobi.icu/badge?page_id=andrecdk.ancdre.cdk" alt="Visitor Count">
+        <img src="https://visitor-badge.laobi.icu/badge?page_id=andrecdk" alt="Visitor Count">
     </p>
 </div>
 
