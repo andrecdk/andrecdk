@@ -1,4 +1,4 @@
-<div>
+<div align="center">
     <p align="center">
         <img src="./img/acdks-bittiger.png" width="350">
     </p>
@@ -19,7 +19,7 @@
 <hr class="solid">
 
 ## 🧰 Languages and Tools
-<table>
+<table align="center">
 	<tr>
 		<td>
             <img alt="Python" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
@@ -65,14 +65,14 @@
 </a>
 
 ## 📊 Stats
-<div align="left">
-    <p align="left">
+<div align="center">
+    <p>
         <img src="https://img.shields.io/github/stars/andrecdk/andrecdk?style=social" alt="GitHub Stars">
         <img src="https://img.shields.io/github/followers/andrecdk?style=social" alt="GitHub Followers">
         <img src="https://img.shields.io/github/watchers/andrecdk/andrecdk?style=social" alt="GitHub Watchers">
         <img src="https://img.shields.io/github/forks/andrecdk/andrecdk?style=social" alt="GitHub Forks">
     </p>
-    <p align="left">
+    <p>
         <img src="https://visitor-badge.laobi.icu/badge?page_id=andrecdk" alt="Visitor Count">
     </p>
 </div>
@@ -93,3 +93,5 @@
 		<img src="https://readme-typing-svg.demolab.com?font=Jet+brain&weight=500&pause=1000&color=04B561&center=true&vCenter=true&width=500&lines=Oops%2C+my+scales!;I+totally+spaced+on+feeding+my+slithery+buddy!+" alt="Typing SVG" />
 	</a>
 </div>
+
+<hr class="solid">
