@@ -62,7 +62,7 @@
 </a>
 
 ## 📊 Stats
-<div>
+<div align="left">
     <p align="left">
         <img src="https://img.shields.io/github/stars/andrecdk/andrecdk?style=social" alt="GitHub Stars">
         <img src="https://img.shields.io/github/followers/andrecdk?style=social" alt="GitHub Followers">
@@ -74,11 +74,17 @@
     </p>
 </div>
 
-## Contrib
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andrecdk/andrecdk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andrecdk/andrecdk/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/andrecdk/andrecdk/output/github-contribution-grid-snake.svg">
-</picture>
-
+## 🐍 My Contribution
+<div align="center">
+	<picture>
+		  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andrecdk/andrecdk/output/github-contribution-grid-snake-dark.svg">
+		  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andrecdk/andrecdk/output/github-contribution-grid-snake.svg">
+		  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/andrecdk/andrecdk/output/github-contribution-grid-snake.svg">
+	</picture>
+</div>
+<br />
+<div align="center">
+	<a href="https://git.io/typing-svg">
+		<img src="https://readme-typing-svg.demolab.com?font=Jet+brain&weight=500&pause=1000&color=04B561&center=true&vCenter=true&width=500&lines=Oops%2C+my+scales!;I+totally+spaced+on+feeding+my+slithery+buddy!+" alt="Typing SVG" />
+	</a>
+</div>
