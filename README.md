@@ -16,6 +16,8 @@
 > [!NOTE]
 >I’m a data enthusiast on a quest to shape my own digital universe. By day, I dive into the intricacies of data analysis, unraveling patterns and insights. But wait—there’s more! Under the moonlight, I don my coding cape (Python, of course) to conjure up little spells—tiny automations that rescue me from the clutches of mundane office tasks. Together, we’re crafting a world where data dances and spreadsheets sigh with relief. 🚀✨
 
+<hr class="solid">
+
 ## 🧰 Languages and Tools
 <table>
 	<tr>
@@ -55,6 +57,7 @@
     </tr>
  </table>
 <br/>
+<hr class="solid">
 
 ## 🤝 Connect with Me
 <a href="https://www.linkedin.com/in/andrechandika/">
@@ -73,6 +76,8 @@
         <img src="https://visitor-badge.laobi.icu/badge?page_id=andrecdk" alt="Visitor Count">
     </p>
 </div>
+
+<hr class="solid">
 
 ## 🐍 My Contribution
 <div align="center">
